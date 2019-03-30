@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.1"> 
+     <Document> 
+         <name>Camino</name> 
+         <description>Camino Minimo - [ Ekaterinburgo - Rostov del Don ]</description> 
+<Placemark> 
+     <name>Ekaterinburgo</name> 
+     <Point> 
+         <coordinates>56.833333, 60.583333</coordinates> 
+     </Point> 
+</Placemark> 
+<Placemark> 
+     <name>Rostov del Don</name> 
+     <Point> 
+         <coordinates>47.233333, 39.716667</coordinates> 
+     </Point> 
+</Placemark> 
+<Placemark> 
+     <LineString> 
+         <coordinates>56.833333, 60.583333 47.233333, 39.716667</coordinates> 
+     </LineString> 
+</Placemark> 
+     </Document> 
+</kml> 
